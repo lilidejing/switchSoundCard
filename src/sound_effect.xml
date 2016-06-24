@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sound_version>
+    
+   <!--  <sound_effect>
+        
+        <effectId>0</effectId>
+        <effectName>电影音效</effectName>  
+        <effectValue>switch_codec</effectValue>
+        <effectPackage></effectPackage>
+    </sound_effect>  -->
+    
+    <sound_effect>
+        
+        <effectId>1</effectId>
+        <effectName>KTV usb麦克风</effectName>  
+        <effectValue>switch_ktv</effectValue>
+        <effectPackage>com.audiocn.kalaok.tv,</effectPackage>
+    </sound_effect>  
+    
+    <sound_effect>
+        <effectId>2</effectId>
+        <effectName>KTV 外部麦克风 </effectName>  
+        <effectValue>switch_ktv_mic</effectValue>
+        <effectPackage>com.molitv.android</effectPackage>
+    </sound_effect>  
+    
+    <sound_effect>
+        <effectId>3</effectId>
+        <effectName>音乐音效 </effectName>  
+        <effectValue>switch_music</effectValue>
+        <effectPackage>com.tencent.qqmusictv</effectPackage>
+        
+    </sound_effect>  
+</sound_version>
